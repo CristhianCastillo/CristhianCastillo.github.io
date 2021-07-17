@@ -91,44 +91,95 @@
       "summary": "● Summary — This paper demonstrates how the processes carried out in companies can represent problems when starting to manipulate considerable volumes of information."
     }
   },
-  "contact": {
-    "title": "Contact",
-    "description": "Let's work together and form a team to respond to the needs of your company. Send us a message.",
-    "form": {
-      "title": "Send us a message",
-      "description": "Enter your information",
-      "label.name": "Name",
-      "label.name.placeholder": "Enter your name",
-      "label.name.invalid": "Enter a valid name.",
-      "label.email": "Email",
-      "label.email.placeholder": "Enter your email",
-      "label.email.invalid": "Enter a valid email.",
-      "label.email.extension.invalid": "Enter a valid email extension",
-      "label.email.protected": "We will not share your email with anyone!",
-      "label.subject": "Subject",
-      "label.subject.placeholder": "Enter the subject of your interest",
-      "label.subject.invalid": "Enter a valid subject.",
-      "label.message": "Message",
-      "label.message.placeholder": "Enter the message of your interest",
-      "label.message.invalid": "Enter a valid message.",
-      "label.term.conditions": "I declare that I have read and accept the Terms and Conditions",
-      "label.term.conditions.invalid": "You must agree to terms and conditions",
-      "label.term.description.one": "By clicking Send, you accept the ",
-      "label.term.description.two": "terms and conditions",
-      "label.term.description.three": " and the ",
-      "label.term.description.four": "privacy policy of "
+  "references": {
+    "title": "References",
+    "one": {
+      "description": "Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed.",
+      "author": "Cesar Augusto Cardenas Caro,",
+      "information": "MANAGER TI, CELL PHONE: 317-5742882, Concesión RUNT."
     },
-    "send.message.title": "Shipping",
-    "send.message.correct.text": "Your information has been registered, we will contact you immediately.",
-    "send.message.incorrect.text": "Your information has not been registered, what a pity!",
-    "send.message.correct": "Successful registration, please check your email to confirm your account.",
-    "alert.send.invalid": "The selected name is already in use.",
-    "address.title": "Find us",
-    "address.content": "Crr 73 F No. 33 a 13 sur - Kennedy Central",
-    "address.zone": "",
-    "address.country": "Colombia",
-    "address.email": "contacto.kenturus@kentaurus.com",
-    "address.phone": "Tel. +57 4527367; +57 319-3191948"
+    "two": {
+      "description": "Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle nesque tincidunt lorem, vitae euismod felis porttitor sed.",
+      "author": "Ivan Combariza,",
+      "information": "MANAGER, CELL PHONE: 300-6107333, Sistemas Integrales Personalizados."
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "one": {
+      "title": "Development Tools",
+      "description": "Eclipse, NetBeans, IntelliJ IDEA, Visual Studio, MySQL Workbench, SQL Server, MongoDB Compass."
+    },
+    "two": {
+      "title": "Languages",
+      "description": "C#, XSLT, Java, XSD, LaTeX, TypeScript, SQL, Python."
+    },
+    "three": {
+      "title": "Technologies",
+      "description": "Spring, Spring Boot, .Net Framework, Spring Cloud, REST API, Docker, Docker Compose, Angular, HTML5, Less, Sass, JavaScript, CSS."
+    },
+    "four": {
+      "title": "Data Base",
+      "description": "Oracle, SQL Server, MySQL, MariaDB, PostgreSQL, MongoDB."
+    }
+  },
+  "contact": {
+    "title": "Social Media"
+  },
+  "jobs": {
+    "title": "Work Experience",
+    "one": {
+      "date": "February 2021 - Actual",
+      "company": "Seguros Bolivar",
+      "role": "Senior Software Engineer"
+    },
+    "two": {
+      "date": "June 2019 - February 2021",
+      "company": "PTESA",
+      "role": "Development Engineer",
+      "functions": {
+        "one": "● Development of Rest services with Spring Boot. Spring Cloud Netflix Eureka, Zuul, Spring Security (JWT, OAuth 2.0).",
+        "two": "● DevOps with Docker, Spring Cloud, and Docker Compose.",
+        "three": "● Manipulation of XML using standards such as XSLT, XSD and Schematron.",
+        "four": "● Model Design of Relational Entity, Databases MongoDB and PostgreSQL.",
+        "five": "● Teamwork management with the SCRUM methodology.",
+        "six": "● Development of modules and implementation of functional requirements with the Angular Framework."
+      }
+    },
+    "three": {
+      "date": "November 2018 - June 2019,",
+      "company": "Zenware S.A.S",
+      "role": "Development Engineer",
+      "functions": {
+        "one": "● Applications development with Spring MVC (HTML, CSS, JavaScript).",
+        "two": "● Mobile Applications development using the Ionic Framework version 3.",
+        "three": "● Rest Service Development with Spring Boot.",
+        "four": "● Rest Service Development in .Net (C#)."
+      },
+      "achievements": {
+        "title": "Achievements",
+        "one": "● Development of techniques to build reliable software that is flexible enough to adapt to customer needs.",
+        "two": "● Reduction of delivery times for large and complex systems without compromising the quality of the system or product.",
+        "three": "● Development of new tools and techniques to promote engineering methods that improve the execution of existing software programming languages and tools."
+      }
+    },
+    "four": {
+      "date": "April 2017 - November 2018,",
+      "company": "SIP Ltad.",
+      "role": "Junior Development Engineer",
+      "functions": {
+        "one": "● Applications Development with Java EE, ORACLE SQL/PLSQL Developer, Oracle 12C DBA Junior, Mysql Developer, Java SE 7 Developer.",
+        "two": "● Applications Development with C#, making use of environments for web applications ASP.NET, Database SQL SERVER 2008, 2012 and MongoDB."
+      },
+      "achievements": {
+        "title": "Achievements",
+        "one": "● Application Development Java Bodega Database for Redeban Multicolor.",
+        "two": "● Application Development C# for the control and inventory of Redeban Multicolor servers.",
+        "three": "● Application Development for the management and monitoring of reports based on metrics and statistics, functional and transactional of the POS Redeban Multicolor network.",
+        "four": "● Web Application Development - Personnel selection management for CONSULTORÍAS PAL.",
+        "five": "● Web Application Development - Bonus Management for Crepes & Waffles Company."
+      }
+    }
   },
   "captcha": {
     "label.captcha.invalid": "Prove you are not a robot.",

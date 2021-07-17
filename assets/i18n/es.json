@@ -91,44 +91,95 @@
       "summary": "● Resumen — Este paper demuestra cómo los procesos ejecutados en las empresas, pueden representar problemas al momento de comenzar a manipular volúmenes considerables de información."
     }
   },
-  "contact": {
-    "title": "Contacto",
-    "description": "Trabajemos juntos y conformemos un equipo de trabajo para responder a las necesidades de su empresa. Envíenos un mensaje.",
-    "form": {
-      "title": "Envíenos un mensaje",
-      "description": "Ingrese sus datos",
-      "label.name": "Nombre",
-      "label.name.placeholder": "Ingrese su nombre",
-      "label.name.invalid": "Ingrese un nombre valido.",
-      "label.email": "Correo Electrónico",
-      "label.email.placeholder": "Ingrese su correo electrónico",
-      "label.email.invalid": "Ingrese un correo valido.",
-      "label.email.extension.invalid": "Ingrese una extensión de correo valida",
-      "label.email.protected": "Nosotros no compartiremos su correo con ¡nadie!",
-      "label.subject": "Asunto",
-      "label.subject.placeholder": "Ingrese el asunto de su interés",
-      "label.subject.invalid": "Ingrese un asunto valido.",
-      "label.message": "Mensaje",
-      "label.message.placeholder": "Ingrese el mensaje de su interés",
-      "label.message.invalid": "Ingrese un mensaje valido.",
-      "label.term.conditions": "Declaro que he leído y acepto los Términos y Condiciones",
-      "label.term.conditions.invalid": "Debe aceptar los términos y condiciones",
-      "label.term.description.one": "Al hacer click en Enviar, acepta los ",
-      "label.term.description.two": "términos y condiciones",
-      "label.term.description.three": " y la ",
-      "label.term.description.four": "política de privacidad de "
+  "references": {
+    "title": "Referencias",
+    "one": {
+      "description": "Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed.",
+      "author": "Cesar Augusto Cardenas Caro,",
+      "information": "GERENTE TI, CEL: 317-5742882, Concesión RUNT."
     },
-    "send.message.title": "Mensaje contacto",
-    "send.message.correct.text": "Su información se ha registrado, nos pondremos en contacto de inmediato.",
-    "send.message.incorrect.text": "Su información no se ha registrado, intente más tarde!",
-    "send.message.correct": "Registro exitoso, por favor revise su correo para confirmar su cuenta.",
-    "alert.send.invalid": "El nombre seleccionado ya está en uso.",
-    "address.title": "Estamos en",
-    "address.content": "Crr 73 F No. 33 a 13 sur - Kennedy Central",
-    "address.zone": "",
-    "address.country": "Colombia",
-    "address.email": "contacto.kenturus@kentaurus.com",
-    "address.phone": "Tel. +57 4527367; +57 319-3191948"
+    "two": {
+      "description": "Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle nesque tincidunt lorem, vitae euismod felis porttitor sed.",
+      "author": "Ivan Combariza,",
+      "information": "GERENTE, CEL: 300-6107333, Sistemas Integrales Personalizados."
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "one": {
+      "title": "Herramientas de Desarrollo",
+      "description": "Eclipse, NetBeans, IntelliJ IDEA, Visual Studio, MySQL Workbench, SQL Server, MongoDB Compass."
+    },
+    "two": {
+      "title": "Lenguajes de Programación",
+      "description": "C#, XSLT, Java, XSD, LaTeX, TypeScript, SQL, Python."
+    },
+    "three": {
+      "title": "Tecnologias",
+      "description": "Spring, Spring Boot, .Net Framework, Spring Cloud, REST API, Docker, Docker Compose, Angular, HTML5, Less, Sass, JavaScript, CSS."
+    },
+    "four": {
+      "title": "Bases de Datos",
+      "description": "Oracle, SQL Server, MySQL, MariaDB, PostgreSQL, MongoDB."
+    }
+  },
+  "contact": {
+    "title": "Redes Sociales"
+  },
+  "jobs": {
+    "title": "Experiencia Laboral",
+    "one": {
+      "date": "Febrero 2021 - Actual",
+      "company": "Seguros Bolivar",
+      "role": "Ingeniero Senior de Desarrollo BackEnd"
+    },
+    "two": {
+      "date": "Junio 2019 - Febrero 2021",
+      "company": "PTESA",
+      "role": "Ingeniero de Desarrollo",
+      "functions": {
+        "one": "● Desarrollo de servicios Rest con Spring Boot. Spring Cloud Netflix Eureka, Zuul, Spring Security (JWT, OAuth 2.0).",
+        "two": "● DevOps con Docker, Spring Cloud y Docker Compose.",
+        "three": "● Manipulación de XML haciendo uso de estándares como XSLT, XSD y Schematron.",
+        "four": "● Diseño de Modelos de Entidad Relacional, Bases de datos MongoDB y PostgreSQL.",
+        "five": "● Gestión de trabajo en equipo con la metodología SCRUM.",
+        "six": "● Desarrollo de módulos e implementación de requerimientos funcionales con el Framework Angular."
+      }
+    },
+    "three": {
+      "date": "Noviembre 2018 - Junio 2019,",
+      "company": "Zenware S.A.S",
+      "role": "Ingeniero de Desarrollo",
+      "functions": {
+        "one": "● Desarrollo de aplicaciones con Spring MVC (HTML, CSS, JavaScript).",
+        "two": "● Desarrollo de aplicaciones móviles utilizando el Framework Ionic versión 3.",
+        "three": "● Desarrollo de servicios Rest con Spring Boot.",
+        "four": "● Desarrollo de servicios Rest en .Net (C#)."
+      },
+      "achievements": {
+        "title": "Logros",
+        "one": "● Desarrollo de técnicas para construir software confiable que sea lo suficientemente flexible para adecuarse a las necesidades del cliente.",
+        "two": "● Reducción de tiempos de entrega para sistemas grandes y complejos sin comprometer la calidad del sistema o producto.",
+        "three": "● Desarrollo de nuevas herramientas, técnicas para promover métodos de ingeniería que mejoren la ejecución de las herramientas y lenguajes de programación de software existentes."
+      }
+    },
+    "four": {
+      "date": "Abril 2017 - Noviembre 2018,",
+      "company": "SIP Ltad.",
+      "role": "Ingeniero de Desarrollo Junior",
+      "functions": {
+        "one": "● Desarrollado de aplicaciones con Java EE, ORACLE SQL/PLSQL Developer, Oracle 12C DBA Junior, Mysql Developer, Java SE 7 Developer.",
+        "two": "● Desarrollo de aplicaciones con C#, haciendo uso de entornos para aplicaciones web ASP.NET, Bases de Datos SQL SERVER 2008, 2012 y MongoDB."
+      },
+      "achievements": {
+        "title": "Logros",
+        "one": "● Desarrollo Aplicación Java Bodega de Datos Redeban Multicolor.",
+        "two": "● Desarrollo Aplicación C# para el control e inventario de servidores Redeban Multicolor.",
+        "three": "● Desarrollo Aplicación para la gestión y monitoreo de reportes en base a métricas y estadísticas, funcionales y transaccionales de la red de POS Redeban Multicolor.",
+        "four": "● Desarrollo Aplicación Web - Gestión de selección de personal CONSULTORÍAS PAL.",
+        "five": "● Desarrollo Aplicación Web - Administración de bonos Establecimientos Crepes & Waffles."
+      }
+    }
   },
   "captcha": {
     "label.captcha.invalid": "Demuestre que no usted no es un robot.",
