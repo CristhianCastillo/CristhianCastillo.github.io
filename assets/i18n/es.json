@@ -7,332 +7,190 @@
       "english": "Inglés"
     }
   },
-  "awards": {
-    "title": "Reconocimientos",
-    "itemOne": {
-      "title": "Finalista - 2017",
-      "description": "Segunda Maratón de programación interna Universidad Piloto de Colombia."
-    },
-    "itemTwo": {
-      "title": "Participación",
-      "description": "Feria de Proyectos de Aula 2018-1."
-    }
-  },
-  "education": {
-    "title": "Educación",
-    "undergraduateUniversity": {
-      "date": "Junio 2015 - Junio 2020",
-      "degree": "Ingenieria de Sistemas",
-      "location": "Universidad Piloto de Colombia",
-      "description": "Obtuve 3 becas estudiantiles a lo largo de la carrera."
-    },
-    "technical": {
-      "date": "Enero 2013 - Novimebre 2014",
-      "degree": "Tecnico en Programación de Software",
-      "location": "SENA",
-      "description": "Aprendí lógica computacional y programacion en .Net Framework (C#) y Bases de datos SQL Server 2012."
-    },
-    "english": {
-      "date": "Enero 2011 - Diciembre 2014",
-      "degree": "Ingles",
-      "location": "Centro Electronico de Idiomas",
-      "description": "Estudios en Inglés."
-    }
-  },
-  "footer": {
-    "rights": "Todos los Derechos Reservados | Hecho",
-    "by": "por",
-    "author": "Mi"
-  },
   "header": {
-    "message": "Sostenibilidad para el Mundo."
+    "message": "Sostenibilidad para el Mundo!",
+    "profession": "Full Stack Software Engineer"
   },
-  "hero": {
-    "description": "Ingeniero, apacionado por el desarrollo de aplicaciones de Software, musico empirico con gran interes en la ejecución musical.",
-    "generalInformation": {
-      "title": "Información general",
-      "dateBirth.header": "Fecha de Nacimiento",
-      "dateBirth.row": "Julio 12, 1997",
-      "location.header": "Ubicación",
-      "location.row": "Bogotá, Colombia",
-      "email.header": "E-mail",
-      "email.row": "cece9707@gmail.com",
-      "phone.header": "Telefono",
-      "phone.row": "+57 3193191948"
-    }
+  "intro": {
+    "description": "Ingeniero de Sistemas de la <a class='theme-link' href='https://www.unipiloto.edu.co/' target='_blank'>Universidad Piloto de Colombia</a> Tengo habilidades para trabajar en equipo, con alto grado de responsabilidad y compromiso con las tareas asignadas. Gran capacidad de aprendizaje y adaptación al equipo de trabajo. Cuento con experiencia en análisis y diseño de bases de datos Sql Server, Oracle, MySQL y PostgreSQL incluyendo programación procedimental (PL/SQL). Experiencia en programación C#, Java y Python. Experiencia en desarrollo con frameworks como Angular, Ionic y Spring. Conocimientos en PHP. Experiencia con herramientas para gestionar equipos de trabajo como Mantis Bug Tracker, Redmine, Jira y Clockify. Experiencia con sistemas de control de versiones como GitHub, GitLab, Bitbucket y Subversion. Experiencia en DevOps con Docker, Docker Compose, Jenkins, git."
   },
-  "passions": {
-    "title": "Pasiones",
-    "music": {
-      "title": "Musica",
-      "description": "De mis grandes pasiones, amo tocar guitarra y bateria."
-    },
-    "formula1": {
-      "title": "Formula 1",
-      "description": "Un deporte extremo y competitivo, cada vuelta mas rapida y con menos errores."
-    },
-    "chess": {
-      "title": "Ajedrez",
-      "description": "La guerra fria en los deportes, estrategia y mejorar posiciones."
-    }
-  },
-  "publications": {
-    "title": "Publicaciones",
-    "one": {
-      "date": "Mayo 2020",
-      "title": "Cómo Gestionar las tareas asignadas a equipos de desarrollo de Software implementando un Algoritmo Heurístico",
-      "location": "Universidad Piloto de Colombia",
-      "summary": "● Resumen — La contribución principal de este documento fue la implementación de un algoritmo heurístico para gestionar las actividades que deben ser desarrolladas por los ingenieros, programadores y líderes técnicos de un proyecto de software."
-    },
-    "two": {
-      "date": "Mayo 2018",
-      "title": "Paradigmas para la gestión de datos y métodos para la visualización de información en la industria",
-      "location": "Universidad Piloto de Colombia",
-      "summary": "● Resumen — Este paper demuestra cómo los procesos ejecutados en las empresas, pueden representar problemas al momento de comenzar a manipular volúmenes considerables de información."
-    }
-  },
-  "references": {
-    "title": "Referencias",
-    "one": {
-      "description": "Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed.",
-      "author": "Cesar Augusto Cardenas Caro,",
-      "information": "GERENTE TI, CEL: 317-5742882, Concesión RUNT."
-    },
-    "two": {
-      "description": "Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle nesque tincidunt lorem, vitae euismod felis porttitor sed.",
-      "author": "Ivan Combariza,",
-      "information": "GERENTE, CEL: 300-6107333, Sistemas Integrales Personalizados."
-    }
-  },
-  "skills": {
-    "title": "Skills",
-    "one": {
-      "title": "Herramientas de Desarrollo",
-      "description": "Eclipse, NetBeans, IntelliJ IDEA, Visual Studio, MySQL Workbench, SQL Server, MongoDB Compass."
-    },
-    "two": {
-      "title": "Lenguajes de Programación",
-      "description": "C#, XSLT, Java, XSD, LaTeX, TypeScript, SQL, Python."
-    },
-    "three": {
-      "title": "Tecnologias",
-      "description": "Spring, Spring Boot, .Net Framework, Spring Cloud, REST API, Docker, Docker Compose, Angular, HTML5, Less, Sass, JavaScript, CSS."
-    },
-    "four": {
-      "title": "Bases de Datos",
-      "description": "Oracle, SQL Server, MySQL, MariaDB, PostgreSQL, MongoDB."
-    }
-  },
-  "contact": {
-    "title": "Redes Sociales"
-  },
-  "jobs": {
+  "workSection": {
     "title": "Experiencia Laboral",
-    "one": {
-      "date": "Febrero 2021 - Actual",
-      "company": "Seguros Bolivar",
-      "role": "Ingeniero Senior de Desarrollo BackEnd"
-    },
-    "two": {
-      "date": "Junio 2019 - Febrero 2021",
-      "company": "PTESA",
-      "role": "Ingeniero de Desarrollo",
-      "functions": {
-        "one": "● Desarrollo de servicios Rest con Spring Boot. Spring Cloud Netflix Eureka, Zuul, Spring Security (JWT, OAuth 2.0).",
-        "two": "● DevOps con Docker, Spring Cloud y Docker Compose.",
-        "three": "● Manipulación de XML haciendo uso de estándares como XSLT, XSD y Schematron.",
-        "four": "● Diseño de Modelos de Entidad Relacional, Bases de datos MongoDB y PostgreSQL.",
-        "five": "● Gestión de trabajo en equipo con la metodología SCRUM.",
-        "six": "● Desarrollo de módulos e implementación de requerimientos funcionales con el Framework Angular."
+    "experience": [
+      {
+        "title": "Experto en Innovacion",
+        "company": "Nequi Bancolombia",
+        "duration": "Jul 2022 - Presente",
+        "description": "",
+        "achievements": []
+      },
+      {
+        "title": "Fullstack Software Engineer Specialist",
+        "company": "ScotiaBank Technology",
+        "duration": "Dic 2021 - Jul 2022",
+        "description": "",
+        "achievements": [
+          "Desarrollo de microservicios con Spring Boot.",
+          "Azure App Service, Blob Storage.",
+          "Desarrollo de requerimientos funcionales.",
+          "Gestión de trabajo en equipo con metodología Agile.",
+          "Diseño de Modelos de Entidad Relaciona, Bases de datos DB2."
+        ]
+      },
+      {
+        "title": "Ingeniero Senior de Desarrollo BackEnd",
+        "company": "Seguros Bolívar S.A.",
+        "duration": "Feb 2021 - Ene 2022",
+        "description": "",
+        "achievements": [
+          "Desarrollo de servicios Rest con Spring Boot. Spring Cloud Netflix Eureka, Zuul, Spring Security (JWT, OAuth 2.0).",
+          "Diseño de Modelos de Entidad Relacional, Bases de datos MySQL.",
+          "Gestión de trabajo en equipo con la metodología SCRUM.",
+          "Desarrollo de módulos e implementación de requerimientos funcionales con el Framework Angular.",
+          "Configuración de infraestructura como código con Terraform en AWS.",
+          "Desarrollo de componentes en NodeJs (Lambdas AWS)."
+        ]
+      },
+      {
+        "title": "Ingeniero de Desarrollo",
+        "company": "PTESA (Profesionales en Transacciones Electrónicas)",
+        "duration": "Jun 2019 - Feb 2021",
+        "description": "Desarrollo de servicios Rest con Spring Boot. Spring Cloud Netflix Eureka, Zuul, Spring Security (JWT, OAuth 2.0). DevOps con Docker, Spring Cloud y Docker Compose. Manipulación de XML haciendo uso de estándares como XSLT, XSD y Schematron. Diseño de Modelos de Entidad Relacional, Bases de datos MongoDB y PostgreSQL. Gestión de trabajo en equipo con la metodología SCRUM. Desarrollo de módulos e implementación de requerimientos funcionales con el Framework Angular.",
+        "achievements": [
+          "Implementación de componentes para gestionar flujo de Facturación Electrónica.",
+          "Desarrollo de capa Front para gestionar flujos de Facturación Electrónica.",
+          "Implementación de capa de seguridad para gestionar flujos de Facturación Electrónica."
+        ]
+      },
+      {
+        "title": "Ingeniero de Desarrollo",
+        "company": "Zenware S.A.S",
+        "duration": "Nov 2018 - Jun 2019",
+        "description": "Desarrollo de aplicaciones con Spring MVC (HTML, CSS, JavaScript). Desarrollo de aplicaciones móviles utilizando el Framework Ionic versión 3. Desarrollo de servicios Rest con Spring Boot. Desarrollo de servicios Rest en .Net (C#).",
+        "achievements": [
+          "Desarrollo de técnicas para construir software confiable que sea lo suficientemente flexible para adecuarse a las necesidades del cliente.",
+          "Reducción de tiempos de entrega para sistemas grandes y complejos sin comprometer la calidad del sistema o producto.",
+          "Desarrollo de nuevas herramientas, técnicas para promover métodos de ingeniería que mejoren la ejecución de las herramientas y lenguajes de programación de software existentes."
+        ]
+      },
+      {
+        "title": "Ingeniero de Desarrollo Junior",
+        "company": "Sistemas Integrales Personalizados (SIP)",
+        "duration": "Abr 2017 - Nov 2018",
+        "description": "Desarrollo de aplicaciones con Java EE, ORACLE SQL/PLSQL Developer Oracle 12C DBA Junior, Mysql Developer, Java SE 7 Developer. Desarrollo de aplicaciones con C#, haciendo uso de entornos para aplicaciones web ASP.NET, Bases de Datos SQL SERVER 2008, 2012 y MongoDB.",
+        "achievements": [
+          "Desarrollo Aplicación Java Bodega de Datos Redeban Multicolor.",
+          "Desarrollo Aplicación C# para el control e inventario de servidores Redeban Multicolor.",
+          "Desarrollo Aplicación para la gestión y monitoreo de reportes en base a métricas y estadísticas, funcionales y transaccionales de la red de POS Redeban Multicolor.",
+          "Desarrollo Aplicación Web - Gestión de selección de personal CONSULTORÍAS PAL.",
+          "Desarrollo Aplicación Web - Administración de bonos Establecimientos Crepes & Waffles."
+        ]
       }
-    },
-    "three": {
-      "date": "Noviembre 2018 - Junio 2019,",
-      "company": "Zenware S.A.S",
-      "role": "Ingeniero de Desarrollo",
-      "functions": {
-        "one": "● Desarrollo de aplicaciones con Spring MVC (HTML, CSS, JavaScript).",
-        "two": "● Desarrollo de aplicaciones móviles utilizando el Framework Ionic versión 3.",
-        "three": "● Desarrollo de servicios Rest con Spring Boot.",
-        "four": "● Desarrollo de servicios Rest en .Net (C#)."
+    ]
+  },
+  "projectSection": {
+    "title": "Proyectos",
+    "projects": [
+      {
+        "title": "Cómo Gestionar las tareas asignadas a equipos de desarrollo de Software implementando un Algoritmo Heurístico",
+        "type": "Mayo 2020, Universidad Piloto de Colombia",
+        "description": "<em>Resumen</em> — La contribución principal de este documento fue la implementación de un algoritmo heurístico para gestionar las actividades que deben ser desarrolladas por los ingenieros, programadores y líderes técnicos de un proyecto de software. <a target='_blank' href='http://repository.unipiloto.edu.co/handle/20.500.12277/9468'>Paper Aqui </a>"
       },
-      "achievements": {
-        "title": "Logros",
-        "one": "● Desarrollo de técnicas para construir software confiable que sea lo suficientemente flexible para adecuarse a las necesidades del cliente.",
-        "two": "● Reducción de tiempos de entrega para sistemas grandes y complejos sin comprometer la calidad del sistema o producto.",
-        "three": "● Desarrollo de nuevas herramientas, técnicas para promover métodos de ingeniería que mejoren la ejecución de las herramientas y lenguajes de programación de software existentes."
+      {
+        "title": "Paradigmas para la gestión de datos y métodos para la visualización de información en la industria",
+        "type": "Mayo 2018, Universidad Piloto de Colombia",
+        "description": "<em>Resumen</em> — Este paper demuestra cómo los procesos ejecutados en las empresas, pueden representar problemas al momento de comenzar a manipular volúmenes considerables de información."
       }
-    },
-    "four": {
-      "date": "Abril 2017 - Noviembre 2018,",
-      "company": "SIP Ltad.",
-      "role": "Ingeniero de Desarrollo Junior",
-      "functions": {
-        "one": "● Desarrollado de aplicaciones con Java EE, ORACLE SQL/PLSQL Developer, Oracle 12C DBA Junior, Mysql Developer, Java SE 7 Developer.",
-        "two": "● Desarrollo de aplicaciones con C#, haciendo uso de entornos para aplicaciones web ASP.NET, Bases de Datos SQL SERVER 2008, 2012 y MongoDB."
+    ]
+  },
+  "skillSection": {
+    "title": "Habilidades",
+    "skills": [
+      {
+        "title": "Tecnicas",
+        "items": [
+          "<strong>BackEnd:</strong> Spring, Spring Boot, .Net Framework, Spring Cloud, REST API, Docker, Docker Compose, TypeScript, JavaScript.",
+          "<strong>FrontEnd:</strong>Angular, HTML5, Less, Sass, JavaScript, CSS.",
+          "<strong>Programacion:</strong> C#, XSLT, Java, XSD, LaTeX, TypeScript, SQL, Python, JavaScript.",
+          "Programacion Orientada a Objetos",
+          "<strong>Base de datos:</strong> Oracle, SQL Server, MySQL, MariaDB, PostgreSQL, MongoDB."
+        ]
       },
-      "achievements": {
-        "title": "Logros",
-        "one": "● Desarrollo Aplicación Java Bodega de Datos Redeban Multicolor.",
-        "two": "● Desarrollo Aplicación C# para el control e inventario de servidores Redeban Multicolor.",
-        "three": "● Desarrollo Aplicación para la gestión y monitoreo de reportes en base a métricas y estadísticas, funcionales y transaccionales de la red de POS Redeban Multicolor.",
-        "four": "● Desarrollo Aplicación Web - Gestión de selección de personal CONSULTORÍAS PAL.",
-        "five": "● Desarrollo Aplicación Web - Administración de bonos Establecimientos Crepes & Waffles."
+      {
+        "title": "Profesionales",
+        "items": [
+          "Conunicacion Efectiva",
+          "Trabajo en equipo!",
+          "Buen administrador del tiempo",
+          "Principios SOLID",
+          "TDD"
+        ]
       }
-    }
+    ]
   },
-  "captcha": {
-    "label.captcha.invalid": "Demuestre que no usted no es un robot.",
-    "language": "es"
-  },
-  "common": {
-    "select": {},
-    "buttons": {
-      "button.loading": "Cargando...",
-      "button.login": "Iniciar Sesión",
-      "button.create": "Crear",
-      "button.create.count": "Registrarse",
-      "button.search": "Consultar",
-      "button.update": "Actualizar",
-      "button.delete": "Eliminar",
-      "button.ok": "Aceptar",
-      "button.cancel": "Cancelar",
-      "button.close": "Cerrar",
-      "button.view": "Ver Detalles",
-      "button.register": "Registrar",
-      "button.response": "Responder",
-      "button.send": "Enviar"
-    },
-    "messages": {
-      "message.title.default": "Kentaurus",
-      "message.body.default": "Optimization and Design",
-      "correct": {
-        "title.common": "Correcto",
-        "message.common": "Acción completada correctamente!",
-        "icon.common": "../assets/images/messages/message-success.png"
+  "educationSection": {
+    "title": "Educación",
+    "education": [
+      {
+        "title": "<strong>Ingeniero de Sistemas</strong>",
+        "institution": "Universidad Piloto de Colombia, Bogotá D.C",
+        "period": "Junio 2015 - Junio 2020"
       },
-      "error": {
-        "title.common": "Error",
-        "message.common": "Kentaurus S.A.S pide disculpas, en estos momentos su solicitud no podra ser atendida.",
-        "icon.common": "../assets/images/messages/message-incorrect.png"
+      {
+        "title": "<strong>Tecnico en programacion de Software</strong>",
+        "institution": "Servicio Nacional de Aprendizaje SENA, Bogotá D.C, Colombia",
+        "period": "Enero 2013 - Noviembre 2013"
       },
-      "information": {
-        "title.common": "Información",
-        "message.common": "Mensaje de información",
-        "icon.common": "../assets/images/messages/message-information.png"
+      {
+        "title": "<strong>Estudios de Ingles</strong>",
+        "institution": "Centro Electronico de Idiomas, Bogotá D.C, Colombia",
+        "period": "Enero 2011 - Noviembre 2014"
       },
-      "warning": {
-        "title.common": "Advertencia",
-        "message.common": "Advertencia.",
-        "icon.common": "../assets/images/messages/message-warning.png"
+      {
+        "title": "<strong>Bachiller Tecnico</strong>",
+        "institution": "Colegio Kennedy I.E.D, Bogotá D.C, Colombia",
+        "period": "Enero 2009 - Noviembre 2014"
       }
-    }
+    ]
   },
-  "error.app": {
-    "title": "Upsss! Estamos teniendo problemas",
-    "title.page": "Error",
-    "description": "En estos momentos su solicitud no puede ser atendida",
-    "description.solution": "Por favor intente más tarde."
-  },
-  "carousel": {
-    "item.one.title": "Soluciones de Software",
-    "item.one.description": "Ofrecemos soluciones de tecnología eficientes, haciendo uso de las buenas practicas que exige el desarrollo del mercado actual.",
-    "item.two.title": "Optimizar Recursos",
-    "item.two.description": "Está en nuestra filosofía diseñar, desarrollar e implementar soluciones que optimicen los recursos de software y hardware de su empresa.",
-    "item.two.button": "Nuestros Servicios",
-    "item.three.title": "Diseño a la medida",
-    "item.three.description": "Entendemos que las necesidades de nuestros clientes son diferentes, por eso, es importante analizar y diseñar soluciones que cumplan con lo requerido.",
-    "item.three.button": "Trabajemos juntos"
-  },
-  "us": {
-    "title": "Nosotros",
-    "description": "Somos una empresa que ha nacido para dar soluciones rápidas y eficientes a su negocio. Además implementamos las mejores técnicas de diseño y desarrollo. La optimización es un principio fundamental, es por esto que todos nuestros productos y soluciones, están hechos a la medida, garantizando un optimo uso de los recursos disponibles.",
-    "team": {
-      "title": "Equipo de Trabajo.",
-      "title.description": "Todos para uno!",
-      "description": "Nuestro equipo de trabajo es responsable de Analizar, Diseñar e Implementar las soluciones de tecnología requeridas por nuestros clientes.",
-      "item.one": {
-        "title": "Metodologías de Desarrollo",
-        "description": "Implementamos la metodología ágil de desarrollo <b>SCRUM</b> en nuestros proyectos de ingeniería y diseño; garantizando entregar un producto que genere valor a su empresa y optimice sus tiempos de respuesta y mejore la calidad de su negocio."
+  "awardSection": {
+    "title": "Reconocimientos",
+    "awards": [
+      {
+        "title": "Participación",
+        "description": "Feria de Proyectos de Aula 2018-1."
       },
-      "item.two": {
-        "title": "Herramientas de Desarrollo",
-        "description": "Hacemos uso de las mejores herramientas de Desarrollo que actualmente existen, esto facilita la construcción de las soluciones. Usamos IDE's como son:",
-        "ide.intellij": "IntelliJ IDEA",
-        "ide.eclipse": "Eclipse",
-        "ide.netbeans": "NetBeans",
-        "ide.visual": "Visual Studio"
-      },
-      "item.three": {
-        "title": "Tecnologías",
-        "description": "Diseñamos y construimos soluciones con las tecnologías actuales del mercado. Utilizamos lenguajes de desarrollo <b>Java</b>, <b>C#</b>, <b>JavaScript</b> y <b>TypeScript</b>. Manejamos tecnologías en bases de datos <b>MySQL</b>, <b>Oracle</b>, <b>PostgreSQL</b> y <b>Mongo DB</b>."
+      {
+        "title": "Finalista - 2017",
+        "description": "Segunda Maratón de programación interna Universidad Piloto de Colombia."
       }
-    }
+    ]
   },
-  "optimization": {
-    "title": "Optimización",
-    "title.description": "para su negocio.",
-    "description": "Nuestros productos tecnológicos no solo cumplen con los requerimientos del cliente, además de esto, las funcionalidades están optimizadas, lo que permite un mejor desempeño en las tareas diarias realizadas con la solución implementada."
+  "languageSection": {
+    "title": "Idiomas",
+    "languages": [
+      {
+        "title": "Español",
+        "level": "(Native)"
+      },
+      {
+        "title": "Ingles",
+        "level": "(Professional)"
+      }
+    ]
   },
-  "design": {
-    "title": "Diseño a la medida.",
-    "title.description": "Se ajusta a las necesidades.",
-    "description": "Nuestros productos cumplen con la fase de Análisis y Diseño, lo que permite entregar a nuestros clientes prototipos de calidad funcional previos a la entrega de la solución final.",
-    "item.one": {
-      "title": "Análisis del Producto",
-      "description": "Analizamos los problemas de nuestros clientes para entender sus necesidades y determinar el producto que mejor se ajusta a contribuir a la solución. Determinamos los requerimientos funcionales y no funcionales de la solución."
-    },
-    "item.two": {
-      "title": "Diseño de la Solución",
-      "description": "Construimos la arquitectura de la solución priorizando la optimización de los distintos procesos que realizará el producto. El uso de los últimas tecnologías son contempladas en el diseño de la solución final."
-    }
+  "interestSection": {
+    "title": "Intereses",
+    "interests": [
+      "Musica 🎸",
+      "Automovilismo 🏎",
+      "Ajedrez ♟",
+      "Viajar 🌎"
+    ]
   },
-  "services": {
-    "title": "Servicios",
-    "description": "Procuramos ofrecer un portafolio de servicios que cubra las necesidades de la sociedad e industria. Nuestros servicios se adaptan a cualquier requisito de industria. Nuestro plus esta en los procesos que realiza cada uno de nuestros servicios.",
-    "service.one.title": "DISEÑO WEB",
-    "service.one.description": "Implementamos tecnologías como son: <b>HTML5</b>, <b>Css</b>, <b>Sass</b> y <b>JavaScript</b> para generar páginas agradables.",
-    "service.two.title": "DESARROLLO WEB",
-    "service.two.description": "<b>ASP.NET</b>, <b>Spring MVC</b> y el framework <b>Angular</b> en sus versiones 6, 7 y 8 para generar aplicaciones web empresariales.",
-    "service.three.title": "DESARROLLO MÓVIL",
-    "service.three.description": "Hacemos uso del framework <b>Ionic</b> en versiones 3 y 4 para generar aplicaciones que mejoren la experiencia de usuario.",
-    "service.four.title": "ADMINISTRACIÓN DE BASES DE DATOS",
-    "service.four.description": "Administración en mostos de bases de datos como son: <b>Oracle 11g y 12c</b>, <b>Sql Server</b>, <b>MySQL</b> y <b>PostgreSQL.</b>",
-    "service.five.title": "DESARROLLO EN PL-SQL",
-    "service.five.description": "Desarrollo de productos en PL/SQL para realizar implementaciones de estas capacidades en el motor de base de datos Oracle.",
-    "service.six.title": "IMPLEMENTACIÓN POLÍTICAS DE BACKUP",
-    "service.six.description": "Las copias de seguridad son esenciales para cualquier negocio, requieren solidez y esto se consolida mediante políticas."
-  },
-  "why.us": {
-    "title": "¿Por qué escogernos?",
-    "description": "Somos nuevos en el mercado y buscamos generar cambios en la industria del software, a través de soluciones que contribuyan a un desarrollo sano de la sociedad.",
-    "top.one.title": "OPTIMIZACIÓN",
-    "top.one.description": "Todos los procesos que se generan en nuestras soluciones tecnológicas optimizan los recursos.",
-    "top.two.title": "ESCALABILIDAD",
-    "top.two.description": "Nuestros productos y soluciones están abiertos a actualizaciones constantes, sin afectar la calidad.",
-    "top.three.title": "EXPERIENCIA DE USUARIO",
-    "top.three.description": "Nuestros productos mejoran la experiencia de usuario haciendo más simple el manejo de aplicaciones.",
-    "counter.title": "Estadísticas",
-    "counter.description": "De acuerdo a nuestra experiencia.",
-    "counter.one": "Horas de Desarrollo",
-    "counter.two": "Clientes Felices",
-    "counter.three": "Proyectos Terminados",
-    "counter.four": "Proyectos de Innovación"
-  },
-  "notfound": {
-    "title": "Esta página ya no existe.",
-    "description": "No pudimos encontrar la página que estabas buscando.",
-    "description.solution": "Por favor intenta más tarde.",
-    "error.title.page": "404 - Not Found"
-  },
-  "legal": {
-    "term.conditions": {
-      "title": "Terminos y Condiciones",
-      "content": "<span class=\"badge badge-info\">Actualizado: Junio 24, 2021</span>\n<p><strong>INFORMACIÓN RELEVANTE</strong></p>\n<p>Es requisito necesario para la adquisición de los productos que se ofrecen en este sitio, que lea y\n    acepte los siguientes Términos y Condiciones que a continuación se redactan. El uso de nuestros\n    servicios así como la compra de nuestros productos implicará que usted ha leído y aceptado los\n    Términos y Condiciones de Uso en el presente documento. Todas los productos &nbsp;que son ofrecidos\n    por nuestro sitio web pudieran ser creadas, cobradas, enviadas o presentadas por una página web\n    tercera y en tal caso estarían sujetas a sus propios Términos y Condiciones. En algunos casos, para\n    adquirir un producto, será necesario el registro por parte del usuario, con ingreso de datos\n    personales fidedignos y definición de una contraseña.</p>\n<p>El usuario puede elegir y cambiar la clave para su acceso de administración de la cuenta en\n    cualquier momento, en caso de que se haya registrado y que sea necesario para la compra de alguno de\n    nuestros productos. Kentaurus S.A.S no asume la responsabilidad en caso de que\n    entregue dicha clave a terceros.</p>\n<p>Todas las compras y transacciones que se lleven a cabo por medio de este sitio web, están sujetas a\n    un proceso de confirmación y verificación, el cual podría incluir la verificación del stock y\n    disponibilidad de producto, validación de la forma de pago, validación de la factura (en caso de\n    existir) y el cumplimiento de las condiciones requeridas por el medio de pago seleccionado. En\n    algunos casos puede que se requiera una verificación por medio de correo electrónico.</p>\n<p>Los precios de los productos ofrecidos en esta Tienda Online es válido solamente en las compras\n    realizadas en este sitio web.</p>\n<p><strong>LICENCIA</strong></p>\n<p>Kentaurus S.A.S&nbsp; a través de su sitio web concede una licencia para que los usuarios utilicen&nbsp;\n    los productos que son vendidos en este sitio web de acuerdo a los Términos y Condiciones que se\n    describen en este documento.</p>\n<p><strong>USO NO AUTORIZADO</strong></p>\n<p>En caso de que aplique (para venta de software, templetes, u otro producto de diseño y\n    programación) usted no puede colocar uno de nuestros productos, modificado o sin modificar, en un\n    CD, sitio web o ningún otro medio y ofrecerlos para la redistribución o la reventa de ningún\n    tipo.</p>\n<p><strong>PROPIEDAD</strong></p>\n<p>Usted no puede declarar propiedad intelectual o exclusiva a ninguno de nuestros productos,\n    modificado o sin modificar. Todos los productos son propiedad &nbsp;de los proveedores del\n    contenido. En caso de que no se especifique lo contrario, nuestros productos se proporcionan&nbsp;\n    sin ningún tipo de garantía, expresa o implícita. En ningún esta compañía será &nbsp;responsables de\n    ningún daño incluyendo, pero no limitado a, daños directos, indirectos, especiales, fortuitos o\n    consecuentes u otras pérdidas resultantes del uso o de la imposibilidad de utilizar nuestros\n    productos.</p>\n<p><strong>POLÍTICA DE REEMBOLSO Y GARANTÍA</strong></p>\n<p>En el caso de productos que sean&nbsp; mercancías irrevocables no-tangibles, no realizamos\n    reembolsos después de que se envíe el producto, usted tiene la responsabilidad de entender antes de\n    comprarlo. &nbsp;Le pedimos que lea cuidadosamente antes de comprarlo. Hacemos solamente excepciones\n    con esta regla cuando la descripción no se ajusta al producto. Hay algunos productos que pudieran\n    tener garantía y posibilidad de reembolso pero este será especificado al comprar el producto. En\n    tales casos la garantía solo cubrirá fallas de fábrica y sólo se hará efectiva cuando el producto se\n    haya usado correctamente. La garantía no cubre averías o daños ocasionados por uso indebido. Los\n    términos de la garantía están asociados a fallas de fabricación y funcionamiento en condiciones\n    normales de los productos y sólo se harán efectivos estos términos si el equipo ha sido usado\n    correctamente. Esto incluye:</p>\n<p>– De acuerdo a las especificaciones técnicas indicadas para cada producto.<br>– En condiciones\n    ambientales acorde con las especificaciones indicadas por el fabricante.<br>– En uso específico para\n    la función con que fue diseñado de fábrica.<br>– En condiciones de operación eléctricas acorde con\n    las especificaciones y tolerancias indicadas.</p>\n<p><strong>COMPROBACIÓN ANTIFRAUDE</strong></p>\n<p>La compra del cliente puede ser aplazada para la comprobación antifraude. También puede ser\n    suspendida por más tiempo para una investigación más rigurosa, para evitar transacciones\n    fraudulentas.</p>\n<p><strong>PRIVACIDAD</strong></p>\n<p>Este <a href=\"https://www.grupokentaurus.com/\" target=\"_blank\">sitio web</a> garantiza que la información personal\n    que usted envía cuenta con la\n    seguridad necesaria. Los datos ingresados por usuario o en el caso de requerir una validación de los\n    pedidos no serán entregados a terceros, salvo que deba ser revelada en cumplimiento a una orden\n    judicial o requerimientos legales.</p>\n<p>La suscripción a boletines de correos electrónicos publicitarios es voluntaria y podría ser\n    seleccionada al momento de crear su cuenta.</p>\n<p>Kentaurus S.A.S reserva los derechos de cambiar o de modificar estos términos sin previo aviso.</p>"
-    },
-    "polity-privacy": {
-      "title": "Politica de Privacidad",
-      "content": "<span class=\"badge badge-info\">Actualizado: Junio 24, 2021</span>\n<p>El presente Política de Privacidad establece los términos en que Kentaurus S.A.S usa y protege la\n    información que es proporcionada por sus usuarios al momento de utilizar su sitio web. Esta compañía\n    está comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos\n    de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se\n    empleará de acuerdo con los términos de este documento. Sin embargo esta Política de Privacidad\n    puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar\n    continuamente esta página para asegurarse que está de acuerdo con dichos cambios.</p>\n<p><strong>Información que es recogida</strong></p>\n<p>Nuestro sitio web podrá recoger información personal por ejemplo: Nombre,&nbsp; información de\n    contacto como&nbsp; su dirección de correo electrónica e información demográfica. Así mismo cuando\n    sea necesario podrá ser requerida información específica para procesar algún pedido o realizar una\n    entrega o facturación.</p>\n<p><strong>Uso de la información recogida</strong></p>\n<p>Nuestro sitio web emplea la información con el fin de proporcionar el mejor servicio posible,\n    particularmente para mantener un registro de usuarios, de pedidos en caso que aplique, y mejorar\n    nuestros productos y servicios. &nbsp;Es posible que sean enviados correos electrónicos\n    periódicamente a través de nuestro sitio con ofertas especiales, nuevos productos y otra información\n    publicitaria que consideremos relevante para usted o que pueda brindarle algún beneficio, estos\n    correos electrónicos serán enviados a la dirección que usted proporcione y podrán ser cancelados en\n    cualquier momento.</p>\n<p>Kentaurus S.A.S está altamente comprometido para cumplir con el compromiso de mantener su\n    información segura. Usamos los sistemas más avanzados y los actualizamos constantemente para\n    asegurarnos que no exista ningún acceso no autorizado.</p>\n<p><strong>Cookies</strong></p>\n<p>Una cookie se refiere a un fichero que es enviado con la finalidad de solicitar permiso para\n    almacenarse en su ordenador, al aceptar dicho fichero se crea y la cookie sirve entonces para tener\n    información respecto al tráfico web, y también facilita las futuras visitas a una web recurrente.\n    Otra función que tienen las cookies es que con ellas las web pueden reconocerte individualmente y\n    por tanto brindarte el mejor servicio personalizado de su web.</p>\n<p>Nuestro sitio web emplea las cookies para poder identificar las páginas que son visitadas y su\n    frecuencia. Esta información es empleada únicamente para análisis estadístico y después la\n    información se elimina de forma permanente. Usted puede eliminar las cookies en cualquier momento\n    desde su ordenador. Sin embargo las cookies ayudan a proporcionar un mejor servicio de los sitios\n    web, estás no dan acceso a información de su ordenador ni de usted, a menos de que usted así lo\n    quiera y la proporcione directamente, <a href=\"https://custommapposter.com/es/\" target=\"_blank\">visitas\n        a una web </a>. Usted puede aceptar o negar el uso de cookies, sin embargo la mayoría de\n    navegadores aceptan cookies automáticamente pues sirve para tener un mejor servicio web. También\n    usted puede cambiar la configuración de su ordenador para declinar las cookies. Si se declinan es\n    posible que no pueda utilizar algunos de nuestros servicios.</p>\n<p><strong>Enlaces a Terceros</strong></p>\n<p>Este sitio web pudiera contener en laces a otros sitios que pudieran ser de su interés. Una vez que\n    usted de clic en estos enlaces y abandone nuestra página, ya no tenemos control sobre al sitio al\n    que es redirigido y por lo tanto no somos responsables de los términos o privacidad ni de la\n    protección de sus datos en esos otros sitios terceros. Dichos sitios están sujetos a sus propias\n    políticas de privacidad por lo cual es recomendable que los consulte para confirmar que usted está\n    de acuerdo con estas.</p>\n<p><strong>Control de su información personal</strong></p>\n<p>En cualquier momento usted puede restringir la recopilación o el uso de la información personal que\n    es proporcionada a nuestro sitio web.&nbsp; Cada vez que se le solicite rellenar un formulario, como\n    el de alta de usuario, puede marcar o desmarcar la opción de recibir información por correo\n    electrónico. &nbsp;En caso de que haya marcado la opción de recibir nuestro boletín o publicidad\n    usted puede cancelarla en cualquier momento.</p>\n<p>Esta compañía no venderá, cederá ni distribuirá la información personal que es recopilada sin su\n    consentimiento, salvo que sea requerido por un juez con un orden judicial.</p>\n<p>Kentaurus S.A.S Se reserva el derecho de cambiar los términos de la presente Política de Privacidad\n    en cualquier momento.</p>"
-    }
+  "footerSection": {
+    "rights": "Diseñado con",
+    "by": "por",
+    "author": "Cristhian Castillo"
   }
 }
