@@ -189,8 +189,12 @@
     ]
   },
   "footerSection": {
-    "rights": "Diseñado con",
+    "rights": "Hecho con",
     "by": "por",
-    "author": "Cristhian Castillo"
+    "author": "Cristhian Castillo",
+    "design": {
+      "description": "Diseñado por",
+      "author": "Xiaoying Riley"
+    }
   }
 }
