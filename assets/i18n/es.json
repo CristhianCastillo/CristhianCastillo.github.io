@@ -26,7 +26,8 @@
           "Gestión de Células de Desarrollo.",
           "Gestión de trabajo en equipo con metodología Agile.",
           "Desarrollo de microservicios con Spring Boot WebFlux.",
-          "Análisis e implementación de Arquitecturas Cloud."
+          "Análisis e implementación de Arquitecturas Cloud.",
+          "Implementación de aplicaciones con Kubernates"
         ]
       },
       {
@@ -115,7 +116,7 @@
         "title": "Tecnicas",
         "items": [
           "<strong>Cloud:</strong> <strong>AWS</strong>, Azure",
-          "<strong>BackEnd:</strong> Spring, Spring Boot, .Net Framework, Spring Cloud, REST API, Docker, Docker Compose, TypeScript, JavaScript.",
+          "<strong>BackEnd:</strong> Spring, Spring Boot, .Net Framework, Spring Cloud, REST API, Docker, Docker Compose, TypeScript, JavaScript, Kubernates.",
           "<strong>FrontEnd:</strong>Angular, HTML5, Less, Sass, JavaScript, CSS.",
           "<strong>Programacion:</strong> C#, XSLT, Java, XSD, LaTeX, TypeScript, SQL, Python, JavaScript.",
           "Programacion Orientada a Objetos",
@@ -129,7 +130,8 @@
           "Trabajo en equipo!",
           "Buen administrador del tiempo",
           "Principios SOLID",
-          "TDD"
+          "TDD",
+          "DDD"
         ]
       }
     ]

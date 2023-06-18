@@ -26,7 +26,8 @@
           "Management of Development Teams.",
           "Teamwork management with Agile methodology.",
           "Microservice development with Spring Boot WebFlux.",
-          "Analysis and implementation of Cloud Architectures."
+          "Analysis and implementation of Cloud Architectures.",
+          "Implement Applications with Kubernates"
         ]
       },
       {
@@ -115,7 +116,7 @@
         "title": "Technical",
         "items": [
           "<strong>Cloud:</strong> <strong>AWS</strong>, Azure",
-          "<strong>BackEnd:</strong> Spring, Spring Boot, .Net Framework, Spring Cloud, REST API, Docker, Docker Compose, TypeScript, JavaScript.",
+          "<strong>BackEnd:</strong> Spring, Spring Boot, .Net Framework, Spring Cloud, REST API, Docker, Docker Compose, TypeScript, JavaScript, Kubernates.",
           "<strong>FrontEnd:</strong>Angular, HTML5, Less, Sass, JavaScript, CSS.",
           "<strong>Programming:</strong> C#, XSLT, Java, XSD, LaTeX, TypeScript, SQL, Python, JavaScript.",
           "Object-oriented designs",
@@ -129,7 +130,8 @@
           "Team player",
           "Good time management",
           "SOLID principles",
-          "TDD"
+          "TDD",
+          "DDD"
         ]
       }
     ]
