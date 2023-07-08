@@ -27,7 +27,8 @@
           "Gestión de trabajo en equipo con metodología Agile.",
           "Desarrollo de microservicios con Spring Boot WebFlux.",
           "Análisis e implementación de Arquitecturas Cloud.",
-          "Implementación de aplicaciones con Kubernates"
+          "Implementación de aplicaciones con Kubernates",
+          "Configuración de infraestructura como código con Terraform en AWS."
         ]
       },
       {

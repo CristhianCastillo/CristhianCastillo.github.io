@@ -27,7 +27,8 @@
           "Teamwork management with Agile methodology.",
           "Microservice development with Spring Boot WebFlux.",
           "Analysis and implementation of Cloud Architectures.",
-          "Implement Applications with Kubernates"
+          "Implement Applications with Kubernates",
+          "Infrastructure configuration as code with Terraform on AWS."
         ]
       },
       {
