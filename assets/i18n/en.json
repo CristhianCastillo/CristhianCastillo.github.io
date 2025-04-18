@@ -141,6 +141,11 @@
     "title": "Education",
     "education": [
       {
+        "title": "<strong>Magister in IT ARCHITECTURES</strong>",
+        "institution": "Universidad de los Andes Colombia, Bogotá D.C",
+        "period": "Jan 2025 - Jan 2027"
+      },
+      {
         "title": "<strong>Systems Engineer</strong>",
         "institution": "Piloto de Colombia University, Bogotá D.C",
         "period": "Jun 2015 - Jun 2020"
