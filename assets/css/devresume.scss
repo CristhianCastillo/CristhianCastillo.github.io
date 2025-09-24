@@ -6,25 +6,26 @@
  * Twitter: @3rdwave_themes
  * Website: http://themes.3rdwavemedia.com/
 */
+@use "sass:color"; // Import the color module
 
 /*************************** Theme Colours****************************/
 // Define theme colour scheme
 $theme-color-primary: #54B689;
 $theme-text-color-primary: #292929;
-$theme-text-color-secondary: lighten($theme-text-color-primary, 15%);
-$theme-text-color-light: lighten($theme-text-color-primary, 40%);
-$theme-border-color:  lighten($theme-text-color-primary, 60%);
+$theme-text-color-secondary: color.adjust($theme-text-color-primary, $lightness: 15%);
+$theme-text-color-light: color.adjust($theme-text-color-primary, $lightness: 40%);
+$theme-border-color:  color.adjust($theme-text-color-primary, $lightness: 60%);
 
 /*************************** Variables Section. *****************************/
 // Create variables to override the default value for variables used in the Bootstrap SCSS files.
-$gray-100: lighten($theme-text-color-primary, 60%);
-$gray-200: lighten($theme-text-color-primary, 55%);
-$gray-300: lighten($theme-text-color-primary, 50%);
-$gray-400: lighten($theme-text-color-primary, 45%);
-$gray-500: lighten($theme-text-color-primary, 40%);
-$gray-600: lighten($theme-text-color-primary, 30%);
-$gray-700: lighten($theme-text-color-primary, 20%);
-$gray-800: lighten($theme-text-color-primary, 10%);
+$gray-100: color.adjust($theme-text-color-primary, $lightness: 60%);
+$gray-200: color.adjust($theme-text-color-primary, $lightness: 55%);
+$gray-300: color.adjust($theme-text-color-primary, $lightness: 50%);
+$gray-400: color.adjust($theme-text-color-primary, $lightness: 45%);
+$gray-500: color.adjust($theme-text-color-primary, $lightness: 40%);
+$gray-600: color.adjust($theme-text-color-primary, $lightness: 30%);
+$gray-700: color.adjust($theme-text-color-primary, $lightness: 20%);
+$gray-800: color.adjust($theme-text-color-primary, $lightness: 10%);
 $gray-900: $theme-text-color-primary;
 
 /* Override BS5 sass color */
@@ -32,7 +33,7 @@ $primary: $theme-color-primary;
 $secondary: $theme-text-color-secondary;
 
 /*************************** Import Bootstrap  *****************************/
-@import "bootstrap/scss/bootstrap.scss";
+@use "bootstrap/scss/bootstrap.scss";
 
 
 /*************************** DevResume Styles ****************************/
@@ -60,6 +61,10 @@ a.theme-link {
 	    -webkit-text-decoration-color: rgba($theme-color-primary,0.8);
 	        text-decoration-color: rgba($theme-color-primary,0.8);
     }
+}
+
+a:link {
+  color: $theme-color-primary;
 }
 
 .btn {
