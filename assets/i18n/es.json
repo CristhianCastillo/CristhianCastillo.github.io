@@ -9,18 +9,30 @@
   },
   "header": {
     "message": "Sostenibilidad para el Mundo!",
-    "profession": "Technical Leader | AWS | Solutions Architect Pro | AI | Security | Serverless"
+    "profession": "Staff Engineer | AWS | Solutions Architect | AI | Security | Serverless | Kubernetes"
   },
   "intro": {
-    "description": "Ingeniero de Sistemas de la <a class='theme-link' href='https://www.unipiloto.edu.co/' target='_blank'>Universidad Piloto de Colombia</a> Tengo habilidades para trabajar en equipo, con alto grado de responsabilidad y compromiso con las tareas asignadas. Gran capacidad de aprendizaje y adaptación al equipo de trabajo. Cuento con experiencia en análisis y diseño de bases de datos Sql Server, Oracle, MySQL y PostgreSQL incluyendo programación procedimental (PL/SQL). Experiencia en programación C#, Java y Python. Experiencia en desarrollo con frameworks como Angular, Ionic y Spring. Conocimientos en PHP. Experiencia con herramientas para gestionar equipos de trabajo como Mantis Bug Tracker, Redmine, Jira y Clockify. Experiencia con sistemas de control de versiones como GitHub, GitLab, Bitbucket y Subversion. Experiencia en DevOps con Docker, Docker Compose, Jenkins, git."
+    "description": "Ingeniero de Sistemas de la <a class='theme-link' href='https://www.unipiloto.edu.co/' target='_blank'>Universidad Piloto de Colombia</a> Tengo habilidades para trabajar en equipo, con alto grado de responsabilidad y compromiso con las tareas asignadas. Gran capacidad de aprendizaje y adaptación al equipo de trabajo."
   },
   "workSection": {
     "title": "Experiencia Laboral",
     "experience": [
       {
+        "title": "Staff Engineer",
+        "company": "Nequi - Bancolombia",
+        "duration": "Jul 2026 - Presente",
+        "description": "",
+        "achievements": [
+          "Definir e impulsar la estrategia técnica y las arquitecturas de referencia para los microservicios financieros críticos de Nequi, garantizando el cumplimiento normativo, alta disponibilidad y escalabilidad en sistemas distribuidos.",
+          "Liderar iniciativas transversales para estandarizar prácticas de desarrollo reactivo con Spring Boot WebFlux, establecer patrones de observabilidad y trazabilidad, y madurar los pipelines de CI/CD para soportar despliegues sin tiempo de inactividad en ambientes productivos de banca digital.",
+          "Mentorear y desarrollar ingenieros senior hacía roles de liderazgo técnico, conduciendo revisiones de arquitectura, estableciendo RFCs de ingeniería y elevando los estándares de calidad de código, seguridad y rendimiento en toda la organización.",
+          "Evaluar y adoptar patrones cloud-native (arquitecturas orientadas a eventos, service mesh, ingeniería del caos) para reducir el riesgo operativo, mejorar la resiliencia del sistema y soportar el crecimiento de la plataforma a escala dentro del ecosistema financiero regulado de Nequi."
+        ]
+      },
+      {
         "title": "Lider Tecnico",
         "company": "Nequi - Bancolombia",
-        "duration": "Jul 2022 - Presente",
+        "duration": "Jul 2022 - Jul 2026",
         "description": "",
         "achievements": [
           "Gestión de Células de Desarrollo.",
@@ -116,12 +128,12 @@
       {
         "title": "Tecnicas",
         "items": [
-          "<strong>Cloud:</strong> <strong>AWS</strong>, Azure",
-          "<strong>BackEnd:</strong> Spring, Spring Boot, .Net Framework, Spring Cloud, REST API, Docker, Docker Compose, TypeScript, JavaScript, Kubernates.",
+          "<strong>Cloud:</strong> <strong>AWS</strong>, Azure, CloudNative services (Kubernetes).",
+          "<strong>BackEnd:</strong> Spring, Spring Boot, .Net Framework, Spring Cloud, REST API, Docker, Docker Compose, TypeScript, JavaScript, Terraform, Spring WebFlux, Spring Cloud Functions, Spring AI, Spring A2A.",
           "<strong>FrontEnd:</strong>Angular, HTML5, Less, Sass, JavaScript, CSS.",
           "<strong>Programacion:</strong> C#, XSLT, Java, XSD, LaTeX, TypeScript, SQL, Python, JavaScript.",
           "Programacion Orientada a Objetos",
-          "<strong>Base de datos:</strong> Oracle, SQL Server, MySQL, MariaDB, PostgreSQL, MongoDB."
+          "<strong>Base de datos:</strong> Oracle, SQL Server, MySQL, MariaDB, PostgreSQL, MongoDB, DynamoDB."
         ]
       },
       {

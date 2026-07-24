@@ -9,18 +9,30 @@
   },
   "header": {
     "message": "Sustainability for the World!",
-    "profession": "Technical Leader | AWS | Solutions Architect Pro | AI | Security | Serverless"
+    "profession": "Staff Engineer | AWS | Solutions Architect | AI | Security | Serverless | Kubernetes"
   },
   "intro": {
-    "description": "Systems Engineer from <a class='theme-link' href='https://www.unipiloto.edu.co/' target='_blank'>Piloto de Colombia University</a> I have Teamwork Skills with a High Degree of responsibility and commitment to the assigned tasks. Great ability to learn and adapt to the Teamwork. I have Certified experience with Analysis and Design DataBase for Sql Server, Oracle, MySQL and PostgreSQL including procedural programming (PL / SQL). Experience in C#, Java and Python programming. Development experience with frameworks like Angular 10, Ionic 5 and Spring. Knowledge of PHP. Experience with tools to manage work teams such as Mantis Bug Tracker, Redmine, Jira and Clockify. Experience with version control systems such as GitHub, GitLab, Bitbucket, and Subversion. DevOps experience with Spring Boot, Docker and Docker Compose."
+    "description": "Systems Engineer from the <a class='theme-link' href='https://www.unipiloto.edu.co/' target='_blank'>Piloto de Colombia University</a> I have teamwork skills, a high level of responsibility, and commitment to assigned tasks. I have a strong capacity for learning and adapting to work teams."
   },
   "workSection": {
     "title": "Work Experiences",
     "experience": [
       {
+        "title": "Staff Engineer",
+        "company": "Nequi - Bancolombia",
+        "duration": "Jul 2026 - Actual",
+        "description": "",
+        "achievements": [
+          "Define and drive the technical strategy and reference architectures for Nequi's critical financial microservices, ensuring regulatory compliance, high availability, and scalability across distributed systems.",
+          "Lead cross-team initiatives to standardize reactive development practices with Spring Boot WebFlux, establish observability and tracing patterns, and mature CI/CD pipelines to support zero-downtime deployments in Nequi's digital banking production environments.",
+          "Mentor and develop senior engineers into technical leaders, conducting architecture reviews, establishing engineering RFCs, and raising the bar on code quality, security, and performance across the organization.",
+          "Evaluate and adopt cloud-native patterns (event-driven architectures, service mesh, chaos engineering) to reduce operational risk, improve system resilience, and support Nequi's platform growth at scale within a highly regulated financial ecosystem."
+        ]
+      },
+      {
         "title": "Technical Leader",
         "company": "Nequi - Bancolombia",
-        "duration": "Jul 2022 - Present",
+        "duration": "Jul 2022 - Jul 2026",
         "description": "",
         "achievements": [
           "Management of Development Teams.",
@@ -116,12 +128,12 @@
       {
         "title": "Technical",
         "items": [
-          "<strong>Cloud:</strong> <strong>AWS</strong>, Azure",
-          "<strong>BackEnd:</strong> Spring, Spring Boot, .Net Framework, Spring Cloud, REST API, Docker, Docker Compose, TypeScript, JavaScript, Kubernates.",
+          "<strong>Cloud:</strong> <strong>AWS</strong>, Azure, CloudNative services (Kubernetes).",
+          "<strong>BackEnd:</strong> Spring, Spring Boot, .Net Framework, Spring Cloud, REST API, Docker, Docker Compose, TypeScript, JavaScript, Terraform, Spring WebFlux, Spring Cloud Functions, Spring AI, Spring A2A.",
           "<strong>FrontEnd:</strong>Angular, HTML5, Less, Sass, JavaScript, CSS.",
           "<strong>Programming:</strong> C#, XSLT, Java, XSD, LaTeX, TypeScript, SQL, Python, JavaScript.",
           "Object-oriented designs",
-          "<strong>Databases:</strong> Oracle, SQL Server, MySQL, MariaDB, PostgreSQL, MongoDB."
+          "<strong>Databases:</strong> Oracle, SQL Server, MySQL, MariaDB, PostgreSQL, MongoDB, DynamoDB."
         ]
       },
       {
